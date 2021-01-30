@@ -1,0 +1,4 @@
+#runRequirement automation  
+0 8 */1 */1 * DISPLAY=:0 /usr/bin/python3 /home/ethanlee000/Documents/Python/runRequirement/runRequirement.py >> ~/cron.log 2>&1
+0 9 */1 */1 * DISPLAY=:0 /usr/bin/python3 /home/ethanlee000/Documents/Python/runRequirement/runRequirement.py >> ~/cron.log 2>&1
+0 10 */1 */1 * DISPLAY=:0 /usr/bin/python3 /home/ethanlee000/Documents/Python/runRequirement/runRequirement.py >> ~/cron.log 2>&1
